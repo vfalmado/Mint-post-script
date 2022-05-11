@@ -15,7 +15,6 @@ sudo apt install snapd -y
 
 # Installing Snap packages
 
-sudo snap install superproductivity
 sudo snap install authy
 
 # Installing flatpak packages
@@ -31,6 +30,7 @@ flatpak install flathub org.kde.tellico -y
 flatpak install flathub org.chromium.Chromium -y
 flatpak install flathub org.kde.kdenlive -y
 flatpak install flathub org.kde.akregator -y
+flatpak install flathub com.todoist.Todoist -y
 
 # Installing PPAs
 
