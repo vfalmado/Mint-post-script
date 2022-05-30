@@ -27,7 +27,6 @@ flatpak install flathub com.valvesoftware.Steam -y
 flatpak install flathub com.bitwarden.desktop -y
 flatpak install flathub com.discordapp.Discord -y
 flatpak install flathub org.kde.tellico -y
-flatpak install flathub org.chromium.Chromium -y
 flatpak install flathub org.kde.kdenlive -y
 flatpak install flathub org.kde.akregator -y
 flatpak install flathub com.todoist.Todoist -y
