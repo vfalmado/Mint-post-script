@@ -2,12 +2,12 @@
 Bash script for automating the post installation process on Linux Mint. It was developed for personal use only; feel free to use it if you find it useful.
 
 ## Updates
-The script handles the system keys and updates before installing any packages and after the installations are complete.
+The script handles the system updates before installing any packages and after the installations are complete.
 
 ## Installed packages
 Flatpaks and Snaps are needed for the script to work, which must be previously enabled.
-**Snaps:** Authy
-**Flatpaks:** Akregator, Bitwarden, Discord, Chromium, Todoist, Kdenlive, GIMP, Joplin, Mendeley, OBS Studio, Spotify, Steam, Tellico and ZapZap
+**Snaps:** Authy and Multipass
+**Flatpaks:** Akregator, Bitwarden, ClamTK, Discord, Chromium, Todoist, Kdenlive, GIMP, Joplin, Mendeley, OBS Studio, Spotify, Steam, Tellico and ZapZap
 **PPAs:** Lutris
 
 ## Uninstalled packages
@@ -21,8 +21,8 @@ Tanto as atualizações do sistema quando das chaves são realizadas duas vezes,
 
 ## Pacotes instalados
 Para funcionar corretamente, tanto Flatpaks quanto Snaps devem ser previamente ativados, uma vez que esse procedimento não é realizado pelo script.
-**Snaps:** Authy
-**Flatpaks:** Akregator, Bitwarden, Discord, Chromium, Todoist, Kdenlive, GIMP, Joplin, Mendeley, OBS Studio, Spotify, Steam, Tellico e ZapZap
+**Snaps:** Authy e Multipass
+**Flatpaks:** Akregator, Bitwarden, ClamTK, Discord, Chromium, Todoist, Kdenlive, GIMP, Joplin, Mendeley, OBS Studio, Spotify, Steam, Tellico e ZapZap
 **PPAs:** Lutris
 
 ## Pacotes desinstalados
