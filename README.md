@@ -6,9 +6,9 @@ The script handles the system updates before installing any packages and after t
 
 ## Installed packages
 Flatpaks and Snaps are needed for the script to work, which must be previously enabled.
-**Snaps:** Authy and Multipass
-**Flatpaks:** Akregator, Bitwarden, ClamTK, Discord, Chromium, Todoist, Kdenlive, GIMP, Joplin, Mendeley, OBS Studio, Spotify, Steam, Tellico and ZapZap
-**PPAs:** Lutris
+* **Snaps:** Authy and Multipass
+* **Flatpaks:** Akregator, Bitwarden, ClamTK, Discord, Chromium, Todoist, Kdenlive, GIMP, Joplin, Mendeley, OBS Studio, Spotify, Steam, Tellico and ZapZap
+* **PPAs:** Lutris
 
 ## Uninstalled packages
 No packages are currently uninstalled.
@@ -21,9 +21,9 @@ Tanto as atualizações do sistema quando das chaves são realizadas duas vezes,
 
 ## Pacotes instalados
 Para funcionar corretamente, tanto Flatpaks quanto Snaps devem ser previamente ativados, uma vez que esse procedimento não é realizado pelo script.
-**Snaps:** Authy e Multipass
-**Flatpaks:** Akregator, Bitwarden, ClamTK, Discord, Chromium, Todoist, Kdenlive, GIMP, Joplin, Mendeley, OBS Studio, Spotify, Steam, Tellico e ZapZap
-**PPAs:** Lutris
+* **Snaps:** Authy e Multipass
+* **Flatpaks:** Akregator, Bitwarden, ClamTK, Discord, Chromium, Todoist, Kdenlive, GIMP, Joplin, Mendeley, OBS Studio, Spotify, Steam, Tellico e ZapZap
+* **PPAs:** Lutris
 
 ## Pacotes desinstalados
 No momento nenhum pacote é desinstalado por este script.
