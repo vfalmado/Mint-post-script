@@ -1,3 +1,5 @@
+# This script is deprecated
+
 # Mint-post-script
 Bash script for automating the post installation process on Linux Mint. It was developed for personal use only; feel free to use it if you find it useful.
 
